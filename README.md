@@ -1,2 +1,1 @@
-"# Calculator" 
-"# Calculator" 
+"# Arthemetic-BMI-calculator" 
